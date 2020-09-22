@@ -25,7 +25,7 @@ event_nodes <- nodes[grepl('display/event',nodes)]
 top_1000_df$beer_url <- paste0('https://www.beermile.com/records/ref_beer/beertype_',gsub(' ','+',top_1000_df$Beer))
 top_1000_df$name_url <- paste0('https://www.beermile.com/query_indy/submit_1/ref_query/name_',gsub(' ','+',top_1000_df$Name))
 
-top_1000_df$event_url <- paste0('https://www.beermile.com/',stringr::str_extract(event_nodes,"display\\/event_\\d+"))
+top_1000_df$event_url <- unique(paste0('https://www.beermile.com/',stringr::str_extract(event_nodes,"display\\/event_\\d+")))
 
 # Race metadata workaround
 for(i in 1:length(top_1000_df$event_url)){
