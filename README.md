@@ -24,4 +24,11 @@ Quick Link
 ### :a: About
 
 The beer mile is a race combining drinking and running where competitors drink a beer then run a lap of a 400m track 4 consecutive times, full rules available here: [beermile.com/rules](https://www.beermile.com/rules)  
+
+
+
+See the viz on Tableau Public:<br>
+<a href="https://public.tableau.com/profile/will7508#!/vizhome/TheBeerMileWorldRecords/TheTop1000BeerMilePerformances">
+<img src='https://pbs.twimg.com/media/EiwP-S8WoAEw6CR?format=png&name=large'>
+</a>
  
