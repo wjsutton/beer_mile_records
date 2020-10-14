@@ -3,14 +3,11 @@
 </h1>
 
 
-[![Status](https://www.repostatus.org/badges/latest/wip.svg)]() [![GitHub Issues](https://img.shields.io/github/issues/wjsutton/beer_mile_records.svg)](https://github.com/wjsutton/beer_mile_records/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/wjsutton/beer_mile_records.svg)](https://github.com/wjsutton/beer_mile_records/pulls) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+[![Status](https://www.repostatus.org/badges/latest/status-active-success.svg)]() [![GitHub Issues](https://img.shields.io/github/issues/wjsutton/beer_mile_records.svg)](https://github.com/wjsutton/beer_mile_records/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/wjsutton/beer_mile_records.svg)](https://github.com/wjsutton/beer_mile_records/pulls) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 Collecting beer mile data from www.beermile.com for a dataviz project.
 
-:construction: Repo Under Construction :construction: 
-
 [Twitter][Twitter] :speech_balloon:&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[LinkedIn][LinkedIn] :necktie:&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[GitHub :octocat:][GitHub]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Website][Website] :link:
-
 
 <!--
 Quick Link 
